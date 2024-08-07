@@ -1,14 +1,18 @@
-# Watermelon Texteditor
+# Watermelon Text Editor
+
 Watermelon is an open-source text editor project.
 
-## How to use it
+## How to Use It
 
-## Features
-- 
-- 
-- 
-- 
+1. Download the folder.
+2. Open it in Visual Studio Code, VSCodium, or any similar editor.
+3. Start a localhost server.
 
-## Coming soon
+That's it! Now you can use Watermelon.
+
+## Coming Soon
+
 - Extensions
 - Color themes
+- Download function
+- Custom data files
