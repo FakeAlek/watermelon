@@ -13,6 +13,10 @@ Watermelon is an open-source text editor project. <img align="right" width="100"
 
 That's it! Now you can use Watermelon.
 
+## License
+
+[![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
+
 ## Coming Soon
 
 - Extensions
