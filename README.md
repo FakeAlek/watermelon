@@ -1,5 +1,4 @@
 # Watermelon Text Editor
-### Version 1.0.0
 
 Watermelon is an open-source text editor project.
 
@@ -17,3 +16,5 @@ That's it! Now you can use Watermelon.
 - Color themes
 - Download function
 - Custom data files
+
+###### Version 1.0.0
