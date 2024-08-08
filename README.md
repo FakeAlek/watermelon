@@ -1,4 +1,5 @@
 # Watermelon Text Editor
+### Version 1.0.0
 
 Watermelon is an open-source text editor project.
 
