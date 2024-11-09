@@ -11,6 +11,8 @@ Watermelon is an open-source text editor project. <img align="right" width="100"
 2. Open it in Visual Studio Code, VSCodium, or any similar editor.
 3. Start a localhost server.
 
+[OR https://fakealek.github.io/watermelon/]
+
 That's it! Now you can use Watermelon.
 
 ## License
