@@ -1,5 +1,5 @@
 # Watermelon Text Editor
-###### Version 1.1.0
+###### Version 1.2.0
 Watermelon is an open-source text editor project. <img align="right" width="100" src="https://github.com/FakeAlek/watermelon/blob/main/assets/img/wmLogo.png">
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -20,9 +20,8 @@ That's it! Now you can use Watermelon.
 [![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
 
 ## NEW
-- Color themes
-- Download function
-- You can now access via web
+- Layout
+- Download Design
 
 ## Coming Soon
 - Extensions
